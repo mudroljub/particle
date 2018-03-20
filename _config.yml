@@ -1,16 +1,16 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Damjan Pavlica developer portfolio
+description: Damjan Pavlica developer portfolio
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+username: Damjan Pavlica
+user_description: I have started programming with my best friend in primary school. Back in 1991, we were coding music and some simple games in BASIC for Commodore 64. After the college, I have started working as a journalist, with the strong interest in Web Development. Crafting websites since 2003. I remember the first shock when CSS was introduced. Nowadays, I am specialized in web programming with JavaScript technologies (Angular, Node.js, React...). 
 user_title: Software Developer
 email: anon@anon.com
 twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
+github_username:  mudroljub
 gplus_username:  lorem_ipsum
 
 # Google-analytics
