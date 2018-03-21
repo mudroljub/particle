@@ -1,6 +1,6 @@
-# Damjan Pavlica developer portfolio
+# Damjan Pavlica portfolio page
 
-Damjan Pavlica developer portfolio, created with Jekyll [Particle Theme](https://github.com/nrandecker/particle).
+Damjan Pavlica portfolio website, created with Jekyll [Particle Theme](https://github.com/nrandecker/particle).
 
 ## Basic Setup
 
