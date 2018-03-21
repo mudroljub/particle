@@ -1,19 +1,6 @@
-# Particle Jekyll Theme
+# Damjan Pavlica developer portfolio
 
-![](./particle.jpg)
-
-This is a simple and minimalist template for Jekyll designed for developers that want to show of their portfolio.
-
-The Theme features:
-
-- Gulp
-- SASS
-- Sweet Scroll
-- Particle.js
-- BrowserSync
-- Font Awesome and Devicon icons
-- Google Analytics
-- Info Customization
+Damjan Pavlica developer portfolio, created with Jekyll [Particle Theme](https://github.com/nrandecker/particle).
 
 ## Basic Setup
 
