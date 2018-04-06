@@ -18,3 +18,4 @@ gulp
 - alkometar?
 - neku igricu
 - videti na skoli koda
+- neradnik
