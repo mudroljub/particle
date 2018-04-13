@@ -13,8 +13,7 @@ gulp
 
 ## TODO
 
-- spomenici app
 - psiholjub
 - alkometar?
-- neku igricu
+- neradnik
 - videti na skoli koda
