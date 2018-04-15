@@ -10,7 +10,3 @@ See [my portfiolio](https://mudroljub.github.io).
 npm install
 gulp
 ```
-
-## TODO
-
-- neradnik

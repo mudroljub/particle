@@ -69,7 +69,6 @@
 
 .project-link {
   display: block;
-  width: 100px;
   margin: 10px 0px;
   padding: 5px;
   color: $main;
@@ -98,5 +97,9 @@
     transition: color 0.3s ease-in,
                 background-color 0.3s ease-in,
                 border-color 0.3s ease-in;
+  }
+
+  @media only screen and (min-width: $cut) {
+    width: 200px;
   }
 }
