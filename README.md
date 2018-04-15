@@ -13,8 +13,4 @@ gulp
 
 ## TODO
 
-- psiholjub
-- alkometar?
-- neradnik
-- videti na skoli koda
 - neradnik
