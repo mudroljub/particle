@@ -10,3 +10,9 @@ See [my portfiolio](https://mudroljub.github.io).
 npm install
 gulp
 ```
+
+## TODO
+
+- https://web.archive.org/web/20050206055026/http://geocities.com/grupa_dobre_volje/
+- http://kontrapress.com/
+- pozorista
